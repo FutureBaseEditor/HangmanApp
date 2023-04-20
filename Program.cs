@@ -14,6 +14,9 @@
             Console.WriteLine("Mert");
             Console.WriteLine("KILIÇ");
             Console.WriteLine("Şampiyon RealMadrid");
+            Console.WriteLine("OZAN");
+            Console.WriteLine("MÜKYEN");
+
 
         }
     }
