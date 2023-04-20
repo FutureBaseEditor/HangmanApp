@@ -9,6 +9,9 @@
             Console.WriteLine("Dila");
             Console.WriteLine("Zeren");
             Console.WriteLine("Yılmaz");
+            Console.WriteLine("Senan");
+            Console.WriteLine("Abbasov");
+            
         }
     }
 }
