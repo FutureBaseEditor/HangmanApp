@@ -6,6 +6,9 @@
         {
             Console.WriteLine("Hangman App");
             Console.WriteLine("Sedat");
+            Console.WriteLine("Dila");
+            Console.WriteLine("Zeren");
+            Console.WriteLine("Yılmaz");
         }
     }
 }
