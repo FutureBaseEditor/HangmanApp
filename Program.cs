@@ -13,7 +13,7 @@
             Console.WriteLine("Abbasov");
             Console.WriteLine("Mert");
             Console.WriteLine("KILIÇ");
-            Console.WriteLine("Şampiyon GALATASARAY");
+            Console.WriteLine("Şampiyon RealMadrid");
 
         }
     }
