@@ -11,7 +11,10 @@
             Console.WriteLine("Yılmaz");
             Console.WriteLine("Senan");
             Console.WriteLine("Abbasov");
-            
+            Console.WriteLine("Mert");
+            Console.WriteLine("KILIÇ");
+            Console.WriteLine("Şampiyon RealMadrid");
+
         }
     }
 }
