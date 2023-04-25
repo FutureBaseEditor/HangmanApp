@@ -16,6 +16,8 @@
             Console.WriteLine("Şampiyon RealMadrid");
             Console.WriteLine("OZAN");
             Console.WriteLine("MÜKYEN");
+            Console.WriteLine("SUHRAB");
+            Console.WriteLine("SADULLAYEV");
 
 
         }
